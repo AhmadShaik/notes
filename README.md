@@ -5,3 +5,4 @@ Technical Notes that I Prepare
 2. Some Details About Conferences and Workshops that are related to CV
 3. Learning Experiences 
 
+## Useful Comands are added
